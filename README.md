@@ -1,7 +1,9 @@
 ![Hello There](https://raw.githubusercontent.com/mrik974-gig/mrik974-gig/main/obi-wan-kenobi-hello-there.gif)
 
 I’m @mrik974-gig
+
 I'm a contractor for Tecnalis
+
 This account will be my side account for everything related to GiG.
 
 My main account is @mrik974
@@ -16,4 +18,5 @@ My main account is @mrik974
 - Contact me via 
   - Slack : `@emeric`
   - Mail : `emeric.lebon@gig-ext.com`
+  - LinkedIn : [Emeric LEBON on LinkedIn](https://www.linkedin.com/in/emericlebon/)
 
